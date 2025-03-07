@@ -1,3 +1,3 @@
 # LaneLineLIS640Project
 
-Sudheesh Dabbara, Sriram Ashhokumar, Mukund Krishnakumar
+Sudheesh Dabbara, Sriram Ashokkumar, Mukund Krishnakumar
